@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 | [0506-relative-ranks](https://github.com/garden14/leetcode/tree/master/0506-relative-ranks) |
 ## Sorting
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garden14/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/garden14/leetcode/tree/master/0933-increasing-order-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
