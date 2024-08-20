@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
 | [0783-search-in-a-binary-search-tree](https://github.com/garden14/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garden14/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/garden14/leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
