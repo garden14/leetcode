@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/garden14/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/garden14/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
