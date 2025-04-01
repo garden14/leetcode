@@ -121,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/garden14/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
+| [1894-merge-strings-alternately](https://github.com/garden14/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Memoization
 |  |
 | ------- |
