@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garden14/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/garden14/leetcode/tree/master/0933-increasing-order-search-tree) |
+| [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/garden14/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/garden14/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/garden14/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/garden14/leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/garden14/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
