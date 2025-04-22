@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/garden14/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/garden14/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/garden14/leetcode/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/garden14/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/garden14/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [0933-increasing-order-search-tree](https://github.com/garden14/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
