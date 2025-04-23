@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/garden14/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/garden14/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/garden14/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
 ## Math
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/garden14/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/garden14/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/garden14/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Database
 |  |
@@ -155,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
