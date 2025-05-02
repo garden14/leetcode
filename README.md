@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garden14/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/garden14/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garden14/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/garden14/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/garden14/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
