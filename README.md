@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+| [0345-reverse-vowels-of-a-string](https://github.com/garden14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/garden14/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/garden14/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/garden14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/garden14/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/garden14/leetcode/tree/master/1894-merge-strings-alternately) |
