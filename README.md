@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/garden14/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/garden14/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/garden14/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/garden14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/garden14/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/garden14/leetcode/tree/master/0969-number-of-recent-calls) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/garden14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
