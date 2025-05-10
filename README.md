@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garden14/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/garden14/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [0933-increasing-order-search-tree](https://github.com/garden14/leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/garden14/leetcode/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garden14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
