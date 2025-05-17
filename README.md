@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/garden14/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/garden14/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/garden14/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Database
