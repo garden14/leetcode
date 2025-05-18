@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/garden14/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
 ## Math
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garden14/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/garden14/leetcode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/garden14/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garden14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/garden14/leetcode/tree/master/0392-is-subsequence) |
