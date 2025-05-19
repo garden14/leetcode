@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/garden14/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/garden14/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garden14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/garden14/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garden14/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garden14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/garden14/leetcode/tree/master/0392-is-subsequence) |
