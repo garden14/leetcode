@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garden14/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/garden14/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/garden14/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garden14/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
