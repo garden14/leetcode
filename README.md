@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/garden14/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/garden14/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/garden14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
