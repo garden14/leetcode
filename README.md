@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/garden14/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/garden14/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garden14/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garden14/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/garden14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
