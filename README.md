@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/garden14/leetcode/tree/master/0506-relative-ranks) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/garden14/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/garden14/leetcode/tree/master/0561-array-partition) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/garden14/leetcode/tree/master/0561-array-partition) |
 ## Graph
