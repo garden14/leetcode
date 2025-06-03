@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/garden14/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garden14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/garden14/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garden14/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/garden14/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/garden14/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
@@ -272,5 +274,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
