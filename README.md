@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garden14/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/garden14/leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/garden14/leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garden14/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/garden14/leetcode/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/garden14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/garden14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/garden14/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/garden14/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/garden14/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/garden14/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/garden14/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garden14/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/garden14/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/garden14/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
