@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/garden14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/garden14/leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/garden14/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/garden14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/garden14/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/garden14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/garden14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garden14/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/garden14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
