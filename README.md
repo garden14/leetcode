@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garden14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/garden14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/garden14/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/garden14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/garden14/leetcode/tree/master/0561-array-partition) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/garden14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/garden14/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/garden14/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/garden14/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/garden14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
