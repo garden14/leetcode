@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/garden14/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/garden14/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/garden14/leetcode/tree/master/0561-array-partition) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/garden14/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/garden14/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/garden14/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Binary Search Tree
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/garden14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/garden14/leetcode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/garden14/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/garden14/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/garden14/leetcode/tree/master/0409-longest-palindrome) |
 ## Math
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/garden14/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/garden14/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/garden14/leetcode/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/garden14/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/garden14/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/garden14/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
