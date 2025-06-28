@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/garden14/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garden14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/garden14/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/garden14/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/garden14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/garden14/leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/garden14/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/garden14/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/garden14/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/garden14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/garden14/leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/garden14/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/garden14/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/garden14/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garden14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Hash Table
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/garden14/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garden14/leetcode/tree/master/0054-spiral-matrix) |
+| [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
