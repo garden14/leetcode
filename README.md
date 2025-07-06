@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/garden14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/garden14/leetcode/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/garden14/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/garden14/leetcode/tree/master/0198-house-robber) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/garden14/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/garden14/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/garden14/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/garden14/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/garden14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/garden14/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
