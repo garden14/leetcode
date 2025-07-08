@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/garden14/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/garden14/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/garden14/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garden14/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/garden14/leetcode/tree/master/0088-merge-sorted-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/garden14/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/garden14/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/garden14/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/garden14/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/garden14/leetcode/tree/master/0189-rotate-array) |
