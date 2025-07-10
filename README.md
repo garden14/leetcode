@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/garden14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/garden14/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0945-snakes-and-ladders](https://github.com/garden14/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/garden14/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/garden14/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/garden14/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/garden14/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/garden14/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2121-find-if-path-exists-in-graph](https://github.com/garden14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/garden14/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/garden14/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Prefix Sum
 |  |
 | ------- |
