@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/garden14/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/garden14/leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/garden14/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/garden14/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/garden14/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garden14/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/garden14/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/garden14/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/garden14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/garden14/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/garden14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
