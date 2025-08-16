@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/garden14/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/garden14/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/garden14/leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/garden14/leetcode/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/garden14/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/garden14/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/garden14/leetcode/tree/master/0455-assign-cookies) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/garden14/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/garden14/leetcode/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/garden14/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/garden14/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/garden14/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/garden14/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/garden14/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/garden14/leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/garden14/leetcode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/garden14/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Prefix Sum
 |  |
